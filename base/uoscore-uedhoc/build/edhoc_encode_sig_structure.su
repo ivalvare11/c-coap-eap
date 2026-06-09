@@ -1,0 +1,2 @@
+src/cbor/edhoc_encode_sig_structure.c:22:13:encode_sig_structure	32	static
+src/cbor/edhoc_encode_sig_structure.c:44:5:cbor_encode_sig_structure	256	dynamic,bounded

@@ -1,0 +1,2 @@
+src/cbor/cwt_decode.c:64:13:decode_CWT	32	static
+src/cbor/cwt_decode.c:86:5:cbor_decode_CWT	400	dynamic,bounded

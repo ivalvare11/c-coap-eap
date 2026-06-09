@@ -1,0 +1,2 @@
+src/cbor/oscore_aad_array.c:22:13:encode_aad_array	32	static
+src/cbor/oscore_aad_array.c:47:5:cbor_encode_aad_array	400	dynamic,bounded

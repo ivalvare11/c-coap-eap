@@ -1,0 +1,15 @@
+../../../externals/mbedtls/library/ccm.c:141:12:ccm_calculate_first_block_if_ready	32	static
+../../../externals/mbedtls/library/ccm.c:54:6:mbedtls_ccm_init	8	static
+../../../externals/mbedtls/library/ccm.c:59:5:mbedtls_ccm_setkey	48	static
+../../../externals/mbedtls/library/ccm.c:92:6:mbedtls_ccm_free	16	static
+../../../externals/mbedtls/library/ccm.c:203:5:mbedtls_ccm_starts	32	static
+../../../externals/mbedtls/library/ccm.c:240:5:mbedtls_ccm_set_lengths	32	static
+../../../externals/mbedtls/library/ccm.c:267:5:mbedtls_ccm_update_ad	64	static
+../../../externals/mbedtls/library/ccm.c:340:5:mbedtls_ccm_update	144	static
+../../../externals/mbedtls/library/ccm.c:448:5:mbedtls_ccm_finish	80	static
+../../../externals/mbedtls/library/ccm.c:488:12:ccm_auth_crypt	112	static
+../../../externals/mbedtls/library/ccm.c:519:5:mbedtls_ccm_star_encrypt_and_tag	112	static
+../../../externals/mbedtls/library/ccm.c:529:5:mbedtls_ccm_encrypt_and_tag	112	static
+../../../externals/mbedtls/library/ccm.c:584:5:mbedtls_ccm_star_auth_decrypt	112	dynamic,bounded
+../../../externals/mbedtls/library/ccm.c:595:5:mbedtls_ccm_auth_decrypt	112	dynamic,bounded
+../../../externals/mbedtls/library/ccm.c:656:5:mbedtls_ccm_self_test	464	dynamic,bounded

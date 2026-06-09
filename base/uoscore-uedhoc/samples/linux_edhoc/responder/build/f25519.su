@@ -1,0 +1,11 @@
+../../../externals/compact25519/src/c25519/f25519.c:14:6:f25519_load	8	static
+../../../externals/compact25519/src/c25519/f25519.c:27:6:f25519_normalize	8	static
+../../../externals/compact25519/src/c25519/f25519.c:62:9:f25519_eq	8	static
+../../../externals/compact25519/src/c25519/f25519.c:77:6:f25519_select	8	static
+../../../externals/compact25519/src/c25519/f25519.c:88:6:f25519_add	8	static
+../../../externals/compact25519/src/c25519/f25519.c:111:6:f25519_sub	8	static
+../../../externals/compact25519/src/c25519/f25519.c:135:6:f25519_neg	8	static
+../../../externals/compact25519/src/c25519/f25519.c:159:6:f25519_mul__distinct	48	static
+../../../externals/compact25519/src/c25519/f25519.c:198:6:f25519_mul_c	8	static
+../../../externals/compact25519/src/c25519/f25519.c:220:6:f25519_inv__distinct	80	static
+../../../externals/compact25519/src/c25519/f25519.c:310:6:f25519_sqrt	192	static

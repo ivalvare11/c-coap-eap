@@ -1,0 +1,13 @@
+../../../externals/mbedtls/library/gcm.c:192:13:gcm_mult	96	static
+../../../externals/mbedtls/library/gcm.c:512:5:mbedtls_gcm_finish.constprop	80	static
+../../../externals/mbedtls/library/gcm.c:396:12:gcm_mask	96	static
+../../../externals/mbedtls/library/gcm.c:64:6:mbedtls_gcm_init	8	static
+../../../externals/mbedtls/library/gcm.c:138:5:mbedtls_gcm_setkey	80	static
+../../../externals/mbedtls/library/gcm.c:248:5:mbedtls_gcm_starts	80	static
+../../../externals/mbedtls/library/gcm.c:331:5:mbedtls_gcm_update_ad	48	static
+../../../externals/mbedtls/library/gcm.c:424:5:mbedtls_gcm_update	112	static
+../../../externals/mbedtls/library/gcm.c:512:5:mbedtls_gcm_finish	96	static
+../../../externals/mbedtls/library/gcm.c:568:5:mbedtls_gcm_crypt_and_tag	48	static
+../../../externals/mbedtls/library/gcm.c:606:5:mbedtls_gcm_auth_decrypt	80	static
+../../../externals/mbedtls/library/gcm.c:649:6:mbedtls_gcm_free	16	static
+../../../externals/mbedtls/library/gcm.c:887:5:mbedtls_gcm_self_test	752	static

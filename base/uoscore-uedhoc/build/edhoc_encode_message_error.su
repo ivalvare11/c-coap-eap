@@ -1,0 +1,2 @@
+src/cbor/edhoc_encode_message_error.c:62:13:encode_message_error	48	dynamic,bounded
+src/cbor/edhoc_encode_message_error.c:83:5:cbor_encode_message_error	336	dynamic,bounded

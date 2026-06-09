@@ -1,0 +1,12 @@
+# Kconfig de tu aplicación
+
+# Incluye Kconfig principal de Zephyr
+source "Kconfig.zephyr"
+
+menu "Server options"
+
+config TEST_VECTOR
+    int "Test vector number https://github.com/eriptic/uoscore-uedhoc/blob/main/test_vectors/edhoc_test_vectors_p256_v16.h"
+    default 1
+
+endmenu

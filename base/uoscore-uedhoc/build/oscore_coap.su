@@ -1,0 +1,7 @@
+src/oscore/oscore_coap.c:29:9:opt_extra_bytes	8	static
+src/oscore/oscore_coap.c:42:10:options_serialize	80	static
+src/oscore/oscore_coap.c:115:10:options_deserialize	40	static
+src/oscore/oscore_coap.c:225:10:coap_deserialize	64	static
+src/oscore/oscore_coap.c:273:10:coap_serialize	192	static
+src/oscore/oscore_coap.c:340:6:is_request	8	static
+src/oscore/oscore_coap.c:349:10:coap_get_message_type	64	static

@@ -1,0 +1,4 @@
+src/edhoc/th.c:114:10:th34_calculate	800	static
+src/edhoc/th.c:152:10:th3_psk_calculate	512	static
+src/edhoc/th.c:165:10:th2_calculate	208	static
+src/edhoc/th.c:222:10:th4_psk_calculate	1152	static

@@ -1,0 +1,7 @@
+src/edhoc/suites.c:16:10:get_suite	8	static
+src/edhoc/suites.c:66:10:get_hash_len	8	static
+src/edhoc/suites.c:76:10:get_aead_mac_len	8	static
+src/edhoc/suites.c:89:10:get_aead_key_len	8	static
+src/edhoc/suites.c:100:10:get_aead_iv_len	8	static
+src/edhoc/suites.c:111:10:get_signature_len	8	static
+src/edhoc/suites.c:122:10:get_ecdh_pk_len	8	static

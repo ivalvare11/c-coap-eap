@@ -1,0 +1,12 @@
+../../../externals/mbedtls/library/ecdh.c:59:5:mbedtls_ecdh_can_do	8	static
+../../../externals/mbedtls/library/ecdh.c:98:5:mbedtls_ecdh_gen_public	64	dynamic,bounded
+../../../externals/mbedtls/library/ecdh.c:146:5:mbedtls_ecdh_compute_shared	176	dynamic,bounded
+../../../externals/mbedtls/library/ecdh.c:176:6:mbedtls_ecdh_init	8	static
+../../../externals/mbedtls/library/ecdh.c:213:5:mbedtls_ecdh_setup	32	static
+../../../externals/mbedtls/library/ecdh.c:267:6:mbedtls_ecdh_free	16	static
+../../../externals/mbedtls/library/ecdh.c:356:5:mbedtls_ecdh_make_params	128	dynamic,bounded
+../../../externals/mbedtls/library/ecdh.c:410:5:mbedtls_ecdh_read_params	80	static
+../../../externals/mbedtls/library/ecdh.c:471:5:mbedtls_ecdh_get_params	48	static
+../../../externals/mbedtls/library/ecdh.c:562:5:mbedtls_ecdh_make_public	112	dynamic,bounded
+../../../externals/mbedtls/library/ecdh.c:618:5:mbedtls_ecdh_read_public	48	static
+../../../externals/mbedtls/library/ecdh.c:696:5:mbedtls_ecdh_calc_secret	176	dynamic,bounded

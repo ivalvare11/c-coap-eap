@@ -1,0 +1,10 @@
+../../../externals/mbedtls/library/chachapoly.c:92:6:mbedtls_chachapoly_init	16	static
+../../../externals/mbedtls/library/chachapoly.c:104:6:mbedtls_chachapoly_free	16	static
+../../../externals/mbedtls/library/chachapoly.c:117:5:mbedtls_chachapoly_setkey	8	static
+../../../externals/mbedtls/library/chachapoly.c:129:5:mbedtls_chachapoly_starts	112	static
+../../../externals/mbedtls/library/chachapoly.c:169:5:mbedtls_chachapoly_update_aad	8	static
+../../../externals/mbedtls/library/chachapoly.c:184:5:mbedtls_chachapoly_update	64	static
+../../../externals/mbedtls/library/chachapoly.c:235:5:mbedtls_chachapoly_finish	112	static
+../../../externals/mbedtls/library/chachapoly.c:308:5:mbedtls_chachapoly_encrypt_and_tag	160	static
+../../../externals/mbedtls/library/chachapoly.c:329:5:mbedtls_chachapoly_auth_decrypt	144	static
+../../../externals/mbedtls/library/chachapoly.c:475:5:mbedtls_chachapoly_self_test	512	static

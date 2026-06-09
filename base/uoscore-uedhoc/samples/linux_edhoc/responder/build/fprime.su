@@ -1,0 +1,4 @@
+../../../externals/compact25519/src/c25519/fprime.c:96:6:fprime_from_bytes	32	static
+../../../externals/compact25519/src/c25519/fprime.c:149:6:fprime_select	8	static
+../../../externals/compact25519/src/c25519/fprime.c:160:6:fprime_add	8	static
+../../../externals/compact25519/src/c25519/fprime.c:175:6:fprime_mul	48	static

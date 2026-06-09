@@ -1,0 +1,2 @@
+src/cbor/edhoc_psk_decode_plaintext3b.c:22:13:decode_ptxt3b_psk_EAD_3	16	static
+src/cbor/edhoc_psk_decode_plaintext3b.c:41:5:cbor_decode_ptxt3b_psk_EAD_3	192	dynamic,bounded

@@ -1,0 +1,17 @@
+../../../externals/mbedtls/library/oid.c:259:1:mbedtls_oid_get_attr_short_name	48	static
+../../../externals/mbedtls/library/oid.c:302:1:mbedtls_oid_get_x509_ext_type	48	static
+../../../externals/mbedtls/library/oid.c:318:1:mbedtls_oid_get_extended_key_usage	48	static
+../../../externals/mbedtls/library/oid.c:327:1:mbedtls_oid_get_certificate_policies	8	static
+../../../externals/mbedtls/library/oid.c:433:1:mbedtls_oid_get_sig_alg_desc	48	static
+../../../externals/mbedtls/library/oid.c:436:1:mbedtls_oid_get_sig_alg	48	static
+../../../externals/mbedtls/library/oid.c:437:1:mbedtls_oid_get_oid_by_sig_alg	8	static
+../../../externals/mbedtls/library/oid.c:469:1:mbedtls_oid_get_pk_alg	48	static
+../../../externals/mbedtls/library/oid.c:470:1:mbedtls_oid_get_oid_by_pk_alg	8	static
+../../../externals/mbedtls/library/oid.c:556:1:mbedtls_oid_get_ec_grp	48	static
+../../../externals/mbedtls/library/oid.c:557:1:mbedtls_oid_get_oid_by_ec_grp	8	static
+../../../externals/mbedtls/library/oid.c:586:1:mbedtls_oid_get_cipher_alg	48	static
+../../../externals/mbedtls/library/oid.c:649:1:mbedtls_oid_get_md_alg	48	static
+../../../externals/mbedtls/library/oid.c:650:1:mbedtls_oid_get_oid_by_md	8	static
+../../../externals/mbedtls/library/oid.c:699:1:mbedtls_oid_get_md_hmac	48	static
+../../../externals/mbedtls/library/oid.c:729:1:mbedtls_oid_get_pkcs12_pbe_alg	48	static
+../../../externals/mbedtls/library/oid.c:742:5:mbedtls_oid_get_numeric_string	64	static

@@ -1,0 +1,5 @@
+../../../externals/mbedtls/library/aesni.c:48:5:mbedtls_aesni_has_support	16	static
+../../../externals/mbedtls/library/aesni.c:95:5:mbedtls_aesni_crypt_ecb	8	static
+../../../externals/mbedtls/library/aesni.c:141:6:mbedtls_aesni_gcm_mult	8	static
+../../../externals/mbedtls/library/aesni.c:252:6:mbedtls_aesni_inverse_key	8	static
+../../../externals/mbedtls/library/aesni.c:447:5:mbedtls_aesni_setkey_enc	8	static

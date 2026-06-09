@@ -1,0 +1,7 @@
+../../../externals/compact25519/src/c25519/ed25519.c:52:6:ed25519_project	32	static
+../../../externals/compact25519/src/c25519/ed25519.c:61:6:ed25519_unproject	80	static
+../../../externals/compact25519/src/c25519/ed25519.c:96:6:ed25519_pack	64	static
+../../../externals/compact25519/src/c25519/ed25519.c:110:9:ed25519_try_unpack	160	static
+../../../externals/compact25519/src/c25519/ed25519.c:158:6:ed25519_add	336	static
+../../../externals/compact25519/src/c25519/ed25519.c:233:6:ed25519_double	304	static
+../../../externals/compact25519/src/c25519/ed25519.c:300:6:ed25519_smult	384	static

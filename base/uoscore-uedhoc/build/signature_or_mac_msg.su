@@ -1,0 +1,3 @@
+src/edhoc/signature_or_mac_msg.c:47:17:mac	864	static
+src/edhoc/signature_or_mac_msg.c:109:17:signature_struct_gen.part.0	512	static
+src/edhoc/signature_or_mac_msg.c:141:1:signature_or_mac	912	dynamic,bounded

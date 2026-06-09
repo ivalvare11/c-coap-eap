@@ -1,0 +1,5 @@
+../../../externals/mbedtls/library/ssl_cli.c:2669:12:ssl_write_encrypted_pms	80	dynamic,bounded
+../../../externals/mbedtls/library/ssl_cli.c:2481:12:ssl_check_server_ecdh_params	32	static
+../../../externals/mbedtls/library/ssl_cli.c:94:5:mbedtls_ssl_write_hostname_ext	64	static
+../../../externals/mbedtls/library/ssl_cli.c:917:12:ssl_write_client_hello	144	dynamic,bounded
+../../../externals/mbedtls/library/ssl_cli.c:4188:5:mbedtls_ssl_handshake_client_step	240	dynamic,bounded

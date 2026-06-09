@@ -1,0 +1,7 @@
+../../../externals/mbedtls/library/psa_crypto_hash.c:36:26:mbedtls_md_info_from_psa	8	static
+../../../externals/mbedtls/library/psa_crypto_hash.c:78:14:mbedtls_psa_hash_abort	16	static
+../../../externals/mbedtls/library/psa_crypto_hash.c:130:14:mbedtls_psa_hash_setup	32	static
+../../../externals/mbedtls/library/psa_crypto_hash.c:198:14:mbedtls_psa_hash_clone	32	static
+../../../externals/mbedtls/library/psa_crypto_hash.c:258:14:mbedtls_psa_hash_update	16	static
+../../../externals/mbedtls/library/psa_crypto_hash.c:318:14:mbedtls_psa_hash_finish	48	static
+../../../externals/mbedtls/library/psa_crypto_hash.c:392:14:mbedtls_psa_hash_compute	320	static

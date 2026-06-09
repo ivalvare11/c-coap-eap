@@ -1,0 +1,10 @@
+../../../externals/mbedtls/library/debug.c:218:6:mbedtls_debug_print_mpi.part.0	592	static
+../../../externals/mbedtls/library/debug.c:195:6:mbedtls_debug_print_ecp.part.0	592	static
+../../../externals/mbedtls/library/debug.c:51:6:mbedtls_debug_set_threshold	8	static
+../../../externals/mbedtls/library/debug.c:78:6:mbedtls_debug_print_msg	768	static
+../../../externals/mbedtls/library/debug.c:107:6:mbedtls_debug_print_ret	560	static
+../../../externals/mbedtls/library/debug.c:135:6:mbedtls_debug_print_buf	640	static
+../../../externals/mbedtls/library/debug.c:195:6:mbedtls_debug_print_ecp	8	static
+../../../externals/mbedtls/library/debug.c:218:6:mbedtls_debug_print_mpi	8	static
+../../../externals/mbedtls/library/debug.c:339:6:mbedtls_debug_print_crt	2192	static
+../../../externals/mbedtls/library/debug.c:404:6:mbedtls_debug_printf_ecdh	8	static

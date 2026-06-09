@@ -1,0 +1,2 @@
+src/edhoc/prk.c:25:10:prk_derive	192	static
+src/edhoc/prk.c:49:10:prk_derive_psk	160	dynamic

@@ -1,0 +1,4 @@
+src/oscore/oscore2coap.c:43:17:oscore_option_parser	24	static
+src/oscore/oscore2coap.c:145:1:options_reorder	96	static
+src/oscore/oscore2coap.c:254:1:decrypt_wrapper.part.0	576	static
+src/oscore/oscore2coap.c:327:10:oscore2coap	2288	static

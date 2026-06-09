@@ -1,0 +1,15 @@
+../../../externals/mbedtls/library/ecdsa.c:523:12:ecdsa_verify_restartable.constprop	336	dynamic,bounded
+../../../externals/mbedtls/library/ecdsa.c:252:12:ecdsa_sign_restartable.part.0	320	dynamic,bounded
+../../../externals/mbedtls/library/ecdsa.c:427:12:ecdsa_sign_det_restartable.isra	448	dynamic,bounded
+../../../externals/mbedtls/library/ecdsa.c:386:5:mbedtls_ecdsa_can_do	8	static
+../../../externals/mbedtls/library/ecdsa.c:403:5:mbedtls_ecdsa_sign	48	dynamic,bounded
+../../../externals/mbedtls/library/ecdsa.c:498:5:mbedtls_ecdsa_sign_det_ext	8	static
+../../../externals/mbedtls/library/ecdsa.c:631:5:mbedtls_ecdsa_verify	336	dynamic,bounded
+../../../externals/mbedtls/library/ecdsa.c:678:5:mbedtls_ecdsa_write_signature_restartable	352	dynamic,bounded
+../../../externals/mbedtls/library/ecdsa.c:731:5:mbedtls_ecdsa_write_signature	352	dynamic,bounded
+../../../externals/mbedtls/library/ecdsa.c:750:5:mbedtls_ecdsa_read_signature	160	static
+../../../externals/mbedtls/library/ecdsa.c:764:5:mbedtls_ecdsa_read_signature_restartable	160	static
+../../../externals/mbedtls/library/ecdsa.c:830:5:mbedtls_ecdsa_genkey	32	static
+../../../externals/mbedtls/library/ecdsa.c:849:5:mbedtls_ecdsa_from_keypair	32	static
+../../../externals/mbedtls/library/ecdsa.c:868:6:mbedtls_ecdsa_init	8	static
+../../../externals/mbedtls/library/ecdsa.c:878:6:mbedtls_ecdsa_free	8	static

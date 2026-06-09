@@ -1,0 +1,2 @@
+src/cbor/edhoc_decode_int_type.c:22:13:decode_int_type_i	8	static
+src/cbor/edhoc_decode_int_type.c:41:5:cbor_decode_int_type_i	192	dynamic,bounded

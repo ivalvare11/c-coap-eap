@@ -1,0 +1,7 @@
+src/oscore/option.c:43:6:is_class_e	8	static
+src/oscore/option.c:50:6:is_observe	8	static
+src/oscore/option.c:60:6:get_observe_value	8	static
+src/oscore/option.c:80:10:cache_echo_val	48	static
+src/oscore/option.c:95:10:oscore_decrypted_payload_parser	64	static
+src/oscore/option.c:116:10:echo_val_is_fresh	320	static
+src/oscore/option.c:146:10:uri_path_create	96	static

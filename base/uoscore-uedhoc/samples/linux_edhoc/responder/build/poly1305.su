@@ -1,0 +1,7 @@
+../../../externals/mbedtls/library/poly1305.c:259:6:mbedtls_poly1305_init	8	static
+../../../externals/mbedtls/library/poly1305.c:266:6:mbedtls_poly1305_free	8	static
+../../../externals/mbedtls/library/poly1305.c:274:5:mbedtls_poly1305_starts	16	static
+../../../externals/mbedtls/library/poly1305.c:305:5:mbedtls_poly1305_update	144	static
+../../../externals/mbedtls/library/poly1305.c:369:5:mbedtls_poly1305_finish	96	static
+../../../externals/mbedtls/library/poly1305.c:396:5:mbedtls_poly1305_mac	128	static
+../../../externals/mbedtls/library/poly1305.c:507:5:mbedtls_poly1305_self_test	176	static

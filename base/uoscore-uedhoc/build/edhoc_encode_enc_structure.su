@@ -1,0 +1,2 @@
+src/cbor/edhoc_encode_enc_structure.c:22:13:encode_edhoc_enc_structure	32	static
+src/cbor/edhoc_encode_enc_structure.c:43:5:cbor_encode_edhoc_enc_structure	256	dynamic,bounded

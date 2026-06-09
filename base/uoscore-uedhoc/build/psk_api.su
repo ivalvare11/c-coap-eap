@@ -1,0 +1,7 @@
+src/edhoc/psk_api.c:19:6:bytes_to_hex	48	static
+src/edhoc/psk_api.c:37:6:hex_to_bytes	8	static
+src/edhoc/psk_api.c:45:10:store_creds	96	dynamic
+src/edhoc/psk_api.c:75:7:get_last_line	80	static
+src/edhoc/psk_api.c:98:10:get_last_creds	112	static
+src/edhoc/psk_api.c:163:10:set_resp_creds_file	8	static
+src/edhoc/psk_api.c:170:10:get_creds_by_id	192	dynamic

@@ -1,0 +1,6 @@
+../../../externals/mbedtls/library/ssl_cache.c:41:6:mbedtls_ssl_cache_init	8	static
+../../../externals/mbedtls/library/ssl_cache.c:92:5:mbedtls_ssl_cache_get	64	static
+../../../externals/mbedtls/library/ssl_cache.c:247:5:mbedtls_ssl_cache_set	96	static
+../../../externals/mbedtls/library/ssl_cache.c:321:6:mbedtls_ssl_cache_set_timeout	8	static
+../../../externals/mbedtls/library/ssl_cache.c:329:6:mbedtls_ssl_cache_set_max_entries	8	static
+../../../externals/mbedtls/library/ssl_cache.c:336:6:mbedtls_ssl_cache_free	32	static

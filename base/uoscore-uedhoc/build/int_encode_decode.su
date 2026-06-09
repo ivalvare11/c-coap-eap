@@ -1,0 +1,4 @@
+src/edhoc/int_encode_decode.c:13:6:c_x_is_encoded_int	8	static
+src/edhoc/int_encode_decode.c:24:6:c_r_is_raw_int	8	static
+src/edhoc/int_encode_decode.c:34:10:encode_int	32	static
+src/edhoc/int_encode_decode.c:44:10:decode_int	32	static

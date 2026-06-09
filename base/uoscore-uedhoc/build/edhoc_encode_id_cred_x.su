@@ -1,0 +1,2 @@
+src/cbor/edhoc_encode_id_cred_x.c:201:13:encode_id_cred_x_map	32	static
+src/cbor/edhoc_encode_id_cred_x.c:228:5:cbor_encode_id_cred_x_map	400	dynamic,bounded

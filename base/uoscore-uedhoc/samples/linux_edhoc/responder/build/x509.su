@@ -1,0 +1,15 @@
+../../../externals/mbedtls/library/x509.c:78:5:mbedtls_x509_get_serial	32	static
+../../../externals/mbedtls/library/x509.c:109:5:mbedtls_x509_get_alg_null	16	static
+../../../externals/mbedtls/library/x509.c:123:5:mbedtls_x509_get_alg	16	static
+../../../externals/mbedtls/library/x509.c:203:5:mbedtls_x509_get_rsassa_pss_params	224	static
+../../../externals/mbedtls/library/x509.c:428:5:mbedtls_x509_get_name	96	static
+../../../externals/mbedtls/library/x509.c:599:5:mbedtls_x509_get_time	64	static
+../../../externals/mbedtls/library/x509.c:629:5:mbedtls_x509_get_sig	48	static
+../../../externals/mbedtls/library/x509.c:656:5:mbedtls_x509_get_sig_alg	48	static
+../../../externals/mbedtls/library/x509.c:705:5:mbedtls_x509_get_ext	48	static
+../../../externals/mbedtls/library/x509.c:741:5:mbedtls_x509_dn_gets	352	static
+../../../externals/mbedtls/library/x509.c:803:5:mbedtls_x509_serial_gets	80	static
+../../../externals/mbedtls/library/x509.c:838:5:mbedtls_x509_sig_alg_gets	96	static
+../../../externals/mbedtls/library/x509.c:884:5:mbedtls_x509_key_size_helper	16	static
+../../../externals/mbedtls/library/x509.c:966:5:mbedtls_x509_time_is_past	96	static
+../../../externals/mbedtls/library/x509.c:976:5:mbedtls_x509_time_is_future	96	static

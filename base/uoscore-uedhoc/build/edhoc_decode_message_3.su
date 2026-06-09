@@ -1,0 +1,2 @@
+src/cbor/edhoc_decode_message_3.c:22:13:decode_m3_CIPHERTEXT_3	8	static
+src/cbor/edhoc_decode_message_3.c:41:5:cbor_decode_m3_CIPHERTEXT_3	192	dynamic,bounded

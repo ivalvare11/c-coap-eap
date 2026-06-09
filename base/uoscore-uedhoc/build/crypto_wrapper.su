@@ -1,0 +1,10 @@
+src/common/crypto_wrapper.c:584:15:hkdf_expand.part.0	880	dynamic,bounded
+src/common/crypto_wrapper.c:265:15:aead	208	dynamic,bounded
+src/common/crypto_wrapper.c:367:15:sign	144	dynamic,bounded
+src/common/crypto_wrapper.c:450:15:verify	128	static
+src/common/crypto_wrapper.c:524:15:hkdf_extract	176	dynamic,bounded
+src/common/crypto_wrapper.c:584:15:hkdf_expand	8	static
+src/common/crypto_wrapper.c:667:15:hkdf_sha_256	112	static
+src/common/crypto_wrapper.c:677:15:shared_secret_derive	384	dynamic,bounded
+src/common/crypto_wrapper.c:782:15:ephemeral_dh_key_gen	208	static
+src/common/crypto_wrapper.c:878:15:hash	32	static

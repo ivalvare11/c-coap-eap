@@ -1,0 +1,3 @@
+../../../externals/mbedtls/library/version.c:27:14:mbedtls_version_get_number	8	static
+../../../externals/mbedtls/library/version.c:32:6:mbedtls_version_get_string	8	static
+../../../externals/mbedtls/library/version.c:38:6:mbedtls_version_get_string_full	8	static

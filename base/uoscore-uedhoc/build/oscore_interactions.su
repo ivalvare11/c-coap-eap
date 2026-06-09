@@ -1,0 +1,7 @@
+src/oscore/oscore_interactions.c:50:13:print_interactions	80	static
+src/oscore/oscore_interactions.c:170:10:oscore_interactions_init	8	static
+src/oscore/oscore_interactions.c:182:1:oscore_interactions_set_record	96	static
+src/oscore/oscore_interactions.c:224:1:oscore_interactions_get_record	64	static
+src/oscore/oscore_interactions.c:250:1:oscore_interactions_remove_record	48	static
+src/oscore/oscore_interactions.c:274:10:oscore_interactions_read_wrapper	48	static
+src/oscore/oscore_interactions.c:300:10:oscore_interactions_update_wrapper	144	static

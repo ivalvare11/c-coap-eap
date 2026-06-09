@@ -1,0 +1,2 @@
+src/cbor/oscore_enc_structure.c:22:13:encode_oscore_enc_structure	32	static
+src/cbor/oscore_enc_structure.c:43:5:cbor_encode_oscore_enc_structure	256	dynamic,bounded

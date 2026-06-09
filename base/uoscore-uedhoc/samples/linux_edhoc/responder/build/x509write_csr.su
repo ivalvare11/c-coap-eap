@@ -1,0 +1,11 @@
+../../../externals/mbedtls/library/x509write_csr.c:136:12:x509write_csr_der_internal.constprop	256	dynamic,bounded
+../../../externals/mbedtls/library/x509write_csr.c:55:6:mbedtls_x509write_csr_init	8	static
+../../../externals/mbedtls/library/x509write_csr.c:60:6:mbedtls_x509write_csr_free	16	static
+../../../externals/mbedtls/library/x509write_csr.c:68:6:mbedtls_x509write_csr_set_md_alg	8	static
+../../../externals/mbedtls/library/x509write_csr.c:73:6:mbedtls_x509write_csr_set_key	8	static
+../../../externals/mbedtls/library/x509write_csr.c:78:5:mbedtls_x509write_csr_set_subject_name	8	static
+../../../externals/mbedtls/library/x509write_csr.c:84:5:mbedtls_x509write_csr_set_extension	8	static
+../../../externals/mbedtls/library/x509write_csr.c:93:5:mbedtls_x509write_csr_set_key_usage	48	static
+../../../externals/mbedtls/library/x509write_csr.c:114:5:mbedtls_x509write_csr_set_ns_cert_type	48	static
+../../../externals/mbedtls/library/x509write_csr.c:295:5:mbedtls_x509write_csr_der	64	static
+../../../externals/mbedtls/library/x509write_csr.c:321:5:mbedtls_x509write_csr_pem	96	dynamic,bounded

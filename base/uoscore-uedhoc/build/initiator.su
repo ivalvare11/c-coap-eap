@@ -1,0 +1,6 @@
+src/edhoc/initiator.c:134:17:msg2_process.constprop	1552	dynamic
+src/edhoc/initiator.c:73:10:msg1_gen	192	static
+src/edhoc/initiator.c:339:10:msg3_gen	1280	dynamic,bounded
+src/edhoc/initiator.c:363:10:msg4_process	128	dynamic
+src/edhoc/initiator.c:381:10:edhoc_initiator_run_extended	848	dynamic
+src/edhoc/initiator.c:433:10:edhoc_initiator_run	128	dynamic,bounded

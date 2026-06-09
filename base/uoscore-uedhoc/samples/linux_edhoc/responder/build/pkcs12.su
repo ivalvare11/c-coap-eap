@@ -1,0 +1,2 @@
+../../../externals/mbedtls/library/pkcs12.c:212:5:mbedtls_pkcs12_derivation	752	static
+../../../externals/mbedtls/library/pkcs12.c:124:5:mbedtls_pkcs12_pbe	496	dynamic,bounded

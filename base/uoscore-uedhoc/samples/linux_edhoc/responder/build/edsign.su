@@ -1,0 +1,4 @@
+../../../externals/compact25519/src/c25519/edsign.c:68:13:hash_with_prefix	160	static
+../../../externals/compact25519/src/c25519/edsign.c:60:6:edsign_sec_to_pub	304	static
+../../../externals/compact25519/src/c25519/edsign.c:117:6:edsign_sign	384	static
+../../../externals/compact25519/src/c25519/edsign.c:145:9:edsign_verify	496	static

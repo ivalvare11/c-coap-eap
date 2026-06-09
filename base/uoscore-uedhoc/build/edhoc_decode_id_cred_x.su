@@ -1,0 +1,11 @@
+src/cbor/edhoc_decode_id_cred_x.c:201:13:decode_id_cred_x_map	32	static
+src/cbor/edhoc_decode_id_cred_x.c:183:13:decode_repeated_id_cred_x_map_c5u	32	static
+src/cbor/edhoc_decode_id_cred_x.c:144:13:decode_repeated_id_cred_x_map_c5c	32	static
+src/cbor/edhoc_decode_id_cred_x.c:126:13:decode_repeated_id_cred_x_map_c5b	32	static
+src/cbor/edhoc_decode_id_cred_x.c:108:13:decode_repeated_id_cred_x_map_x5u	32	static
+src/cbor/edhoc_decode_id_cred_x.c:69:13:decode_repeated_id_cred_x_map_x5chain	32	static
+src/cbor/edhoc_decode_id_cred_x.c:51:13:decode_repeated_id_cred_x_map_x5bag	32	static
+src/cbor/edhoc_decode_id_cred_x.c:31:13:decode_repeated_id_cred_x_map_kid	32	static
+src/cbor/edhoc_decode_id_cred_x.c:162:13:decode_repeated_id_cred_x_map_c5t	32	static
+src/cbor/edhoc_decode_id_cred_x.c:87:13:decode_repeated_id_cred_x_map_x5t	32	static
+src/cbor/edhoc_decode_id_cred_x.c:228:5:cbor_decode_id_cred_x_map	400	dynamic,bounded

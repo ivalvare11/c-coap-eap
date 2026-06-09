@@ -1,0 +1,2 @@
+src/cbor/edhoc_decode_cert.c:22:13:decode_cert	32	static
+src/cbor/edhoc_decode_cert.c:51:5:cbor_decode_cert	192	dynamic,bounded

@@ -1,0 +1,2 @@
+src/oscore/oscore_cose.c:61:10:oscore_cose_decrypt	240	dynamic,bounded
+src/oscore/oscore_cose.c:85:10:oscore_cose_encrypt	240	dynamic,bounded

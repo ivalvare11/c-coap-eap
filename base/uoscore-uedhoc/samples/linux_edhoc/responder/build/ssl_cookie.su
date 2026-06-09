@@ -1,0 +1,6 @@
+../../../externals/mbedtls/library/ssl_cookie.c:69:6:mbedtls_ssl_cookie_init	16	static
+../../../externals/mbedtls/library/ssl_cookie.c:82:6:mbedtls_ssl_cookie_set_timeout	8	static
+../../../externals/mbedtls/library/ssl_cookie.c:87:6:mbedtls_ssl_cookie_free	16	static
+../../../externals/mbedtls/library/ssl_cookie.c:98:5:mbedtls_ssl_cookie_setup	80	static
+../../../externals/mbedtls/library/ssl_cookie.c:150:5:mbedtls_ssl_cookie_write	96	static
+../../../externals/mbedtls/library/ssl_cookie.c:192:5:mbedtls_ssl_cookie_check	112	static

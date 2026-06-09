@@ -1,0 +1,5 @@
+src/edhoc/responder.c:182:10:msg2_gen	1424	dynamic
+src/edhoc/responder.c:284:10:msg3_process	2720	dynamic
+src/edhoc/responder.c:438:10:msg4_gen	144	dynamic,bounded
+src/edhoc/responder.c:459:10:edhoc_responder_run_extended	848	static
+src/edhoc/responder.c:517:10:edhoc_responder_run	144	dynamic,bounded

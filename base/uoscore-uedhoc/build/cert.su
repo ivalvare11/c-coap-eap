@@ -1,0 +1,5 @@
+src/edhoc/cert.c:66:12:find_pk_cb	8	static
+src/edhoc/cert.c:181:17:ca_pk_get	704	static
+src/edhoc/cert.c:51:12:deser_sign_cb	32	static
+src/edhoc/cert.c:247:10:cert_c509_verify	224	static
+src/edhoc/cert.c:290:10:cert_x509_verify	912	dynamic,bounded

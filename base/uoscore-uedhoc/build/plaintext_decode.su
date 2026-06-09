@@ -1,0 +1,4 @@
+src/edhoc/plaintext_decode.c:164:17:plaintext3_split.isra	672	static
+src/edhoc/plaintext_decode.c:86:17:plaintext2_split.isra	704	static
+src/edhoc/plaintext_decode.c:229:10:plaintext_split	8	static
+src/edhoc/plaintext_decode.c:325:10:plaintext_split_psk	144	static

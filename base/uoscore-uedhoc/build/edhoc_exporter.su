@@ -1,0 +1,3 @@
+src/edhoc/edhoc_exporter.c:23:10:prk_out2exporter	8	static
+src/edhoc/edhoc_exporter.c:31:10:prk_out_update	8	static
+src/edhoc/edhoc_exporter.c:39:10:edhoc_exporter	8	static

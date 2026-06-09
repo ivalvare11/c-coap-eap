@@ -1,0 +1,2 @@
+src/edhoc/edhoc_cose.c:21:10:cose_enc_structure_encode	96	static
+src/edhoc/edhoc_cose.c:66:10:cose_sig_structure_encode	112	static

@@ -1,0 +1,8 @@
+../../../externals/mbedtls/library/psa_crypto_mac.c:41:21:psa_hmac_setup_internal	192	static
+../../../externals/mbedtls/library/psa_crypto_mac.c:232:14:mbedtls_psa_mac_abort	16	static
+../../../externals/mbedtls/library/psa_crypto_mac.c:324:14:mbedtls_psa_mac_sign_setup	48	static
+../../../externals/mbedtls/library/psa_crypto_mac.c:335:14:mbedtls_psa_mac_verify_setup	48	static
+../../../externals/mbedtls/library/psa_crypto_mac.c:346:14:mbedtls_psa_mac_update	16	static
+../../../externals/mbedtls/library/psa_crypto_mac.c:414:14:mbedtls_psa_mac_sign_finish	176	static
+../../../externals/mbedtls/library/psa_crypto_mac.c:432:14:mbedtls_psa_mac_verify_finish	240	static
+../../../externals/mbedtls/library/psa_crypto_mac.c:460:14:mbedtls_psa_mac_compute	544	static

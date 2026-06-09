@@ -1,0 +1,14 @@
+CWT = {
+  2 => tstr,         ; sub
+  8 => Claim_Key     ; cnf
+}
+
+Claim_Key = {
+  1 => COSE_Key      ;
+}
+
+COSE_Key = {
+  1 => int,          ; kty
+  2 => bstr,         ; kid
+ -1 => bstr          ; k (symmetric key)
+}

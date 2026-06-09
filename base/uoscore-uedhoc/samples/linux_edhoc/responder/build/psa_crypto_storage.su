@@ -1,0 +1,7 @@
+../../../externals/mbedtls/library/psa_crypto_storage.c:113:5:psa_is_key_present_in_storage	32	static
+../../../externals/mbedtls/library/psa_crypto_storage.c:184:14:psa_destroy_persistent_key	48	static
+../../../externals/mbedtls/library/psa_crypto_storage.c:250:6:psa_format_key_data_for_storage	56	static
+../../../externals/mbedtls/library/psa_crypto_storage.c:278:14:psa_parse_key_data_from_storage	48	static
+../../../externals/mbedtls/library/psa_crypto_storage.c:327:14:psa_save_persistent_key	112	static
+../../../externals/mbedtls/library/psa_crypto_storage.c:357:6:psa_free_persistent_key_data	16	static
+../../../externals/mbedtls/library/psa_crypto_storage.c:366:14:psa_load_persistent_key	96	static

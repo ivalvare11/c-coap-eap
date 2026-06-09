@@ -1,0 +1,6 @@
+src/edhoc/ciphertext.c:88:17:key_gen	64	static
+src/edhoc/ciphertext.c:273:17:key_gen_psk	64	static
+src/edhoc/ciphertext.c:119:10:ciphertext_decrypt_split	656	dynamic,bounded
+src/edhoc/ciphertext.c:184:10:ciphertext_gen	768	dynamic,bounded
+src/edhoc/ciphertext.c:313:10:ciphertext_decrypt_split_psk	288	dynamic
+src/edhoc/ciphertext.c:383:10:ciphertext_gen_psk	640	dynamic

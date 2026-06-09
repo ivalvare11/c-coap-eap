@@ -1,0 +1,7 @@
+../../../externals/mbedtls/library/nist_kw.c:283:12:unwrap.constprop	160	static
+../../../externals/mbedtls/library/nist_kw.c:64:6:mbedtls_nist_kw_init	8	static
+../../../externals/mbedtls/library/nist_kw.c:69:5:mbedtls_nist_kw_setkey	64	static
+../../../externals/mbedtls/library/nist_kw.c:118:6:mbedtls_nist_kw_free	16	static
+../../../externals/mbedtls/library/nist_kw.c:141:5:mbedtls_nist_kw_wrap	160	static
+../../../externals/mbedtls/library/nist_kw.c:345:5:mbedtls_nist_kw_unwrap	112	static
+../../../externals/mbedtls/library/nist_kw.c:585:5:mbedtls_nist_kw_self_test	288	dynamic,bounded

@@ -1,0 +1,2 @@
+src/cbor/edhoc_decode_message_1.c:22:13:decode_message_1	64	dynamic,bounded
+src/cbor/edhoc_decode_message_1.c:48:5:cbor_decode_message_1	336	dynamic,bounded

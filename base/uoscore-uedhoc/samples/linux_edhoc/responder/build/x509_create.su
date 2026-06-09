@@ -1,0 +1,5 @@
+../../../externals/mbedtls/library/x509_create.c:123:5:mbedtls_x509_string_to_names	336	static
+../../../externals/mbedtls/library/x509_create.c:208:5:mbedtls_x509_set_extension	32	static
+../../../externals/mbedtls/library/x509_create.c:269:5:mbedtls_x509_write_names	80	static
+../../../externals/mbedtls/library/x509_create.c:289:5:mbedtls_x509_write_sig	80	static
+../../../externals/mbedtls/library/x509_create.c:358:5:mbedtls_x509_write_extensions	80	static

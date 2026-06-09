@@ -1,0 +1,9 @@
+../../../externals/mbedtls/library/ssl_srv.c:3385:12:ssl_parse_client_dh_public	48	static
+../../../externals/mbedtls/library/ssl_srv.c:1012:12:ssl_ciphersuite_match	112	dynamic,bounded
+../../../externals/mbedtls/library/ssl_srv.c:3532:12:ssl_parse_encrypted_pms	208	dynamic,bounded
+../../../externals/mbedtls/library/ssl_srv.c:1120:12:ssl_parse_client_hello	368	dynamic,bounded
+../../../externals/mbedtls/library/ssl_srv.c:3621:12:ssl_parse_client_psk_identity	48	dynamic,bounded
+../../../externals/mbedtls/library/ssl_srv.c:51:5:mbedtls_ssl_set_client_transport_id	32	static
+../../../externals/mbedtls/library/ssl_srv.c:69:6:mbedtls_ssl_conf_dtls_cookies	8	static
+../../../externals/mbedtls/library/ssl_srv.c:4237:5:mbedtls_ssl_handshake_server_step	320	dynamic,bounded
+../../../externals/mbedtls/library/ssl_srv.c:4350:6:mbedtls_ssl_conf_preference_order	8	static

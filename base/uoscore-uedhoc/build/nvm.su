@@ -1,0 +1,4 @@
+src/oscore/nvm.c:20:15:nvm_write_ssn	16	static
+src/oscore/nvm.c:27:15:nvm_read_ssn	16	static
+src/oscore/nvm.c:37:10:ssn_store_in_nvm	32	static
+src/oscore/nvm.c:51:10:ssn_init	32	static

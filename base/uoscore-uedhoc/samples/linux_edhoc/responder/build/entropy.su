@@ -1,0 +1,13 @@
+../../../externals/mbedtls/library/entropy.c:514:12:entropy_dummy_source	32	static
+../../../externals/mbedtls/library/entropy.c:150:12:entropy_update	144	static
+../../../externals/mbedtls/library/entropy.c:229:12:entropy_gather_internal.part.0	224	static
+../../../externals/mbedtls/library/entropy.c:298:5:mbedtls_entropy_func.part.0	144	static
+../../../externals/mbedtls/library/entropy.c:51:6:mbedtls_entropy_init	16	static
+../../../externals/mbedtls/library/entropy.c:90:6:mbedtls_entropy_free	16	static
+../../../externals/mbedtls/library/entropy.c:113:5:mbedtls_entropy_add_source	8	static
+../../../externals/mbedtls/library/entropy.c:206:5:mbedtls_entropy_update_manual	144	static
+../../../externals/mbedtls/library/entropy.c:279:5:mbedtls_entropy_gather	8	static
+../../../externals/mbedtls/library/entropy.c:298:5:mbedtls_entropy_func	8	static
+../../../externals/mbedtls/library/entropy.c:442:5:mbedtls_entropy_write_seed_file	96	static
+../../../externals/mbedtls/library/entropy.c:477:5:mbedtls_entropy_update_seed_file	1136	static
+../../../externals/mbedtls/library/entropy.c:628:5:mbedtls_entropy_self_test	1328	static

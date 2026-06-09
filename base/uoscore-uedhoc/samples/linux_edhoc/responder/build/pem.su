@@ -1,0 +1,7 @@
+../../../externals/mbedtls/library/pem.c:76:12:pem_pbkdf1	192	static
+../../../externals/mbedtls/library/pem.c:166:12:pem_des3_decrypt	496	static
+../../../externals/mbedtls/library/pem.c:196:12:pem_aes_decrypt	416	static
+../../../externals/mbedtls/library/pem.c:44:6:mbedtls_pem_init	8	static
+../../../externals/mbedtls/library/pem.c:225:5:mbedtls_pem_read_buffer	368	static
+../../../externals/mbedtls/library/pem.c:419:6:mbedtls_pem_free	16	static
+../../../externals/mbedtls/library/pem.c:433:5:mbedtls_pem_write_buffer	112	static

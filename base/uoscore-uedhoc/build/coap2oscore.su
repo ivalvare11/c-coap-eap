@@ -1,0 +1,4 @@
+src/oscore/coap2oscore.c:43:17:inner_outer_option_split	112	static
+src/oscore/coap2oscore.c:279:17:oscore_option_generate	80	static
+src/oscore/coap2oscore.c:364:17:oscore_pkg_generate	80	static
+src/oscore/coap2oscore.c:590:10:coap2oscore	4624	static

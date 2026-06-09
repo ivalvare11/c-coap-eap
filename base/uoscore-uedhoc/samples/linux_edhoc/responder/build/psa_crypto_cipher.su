@@ -1,0 +1,10 @@
+../../../externals/mbedtls/library/psa_crypto_cipher.c:131:21:psa_cipher_setup.constprop	112	static
+../../../externals/mbedtls/library/psa_crypto_cipher.c:34:30:mbedtls_cipher_info_from_psa	8	static
+../../../externals/mbedtls/library/psa_crypto_cipher.c:208:14:mbedtls_psa_cipher_encrypt_setup	112	static
+../../../externals/mbedtls/library/psa_crypto_cipher.c:219:14:mbedtls_psa_cipher_decrypt_setup	112	static
+../../../externals/mbedtls/library/psa_crypto_cipher.c:230:14:mbedtls_psa_cipher_set_iv	16	static
+../../../externals/mbedtls/library/psa_crypto_cipher.c:346:14:mbedtls_psa_cipher_update	96	static
+../../../externals/mbedtls/library/psa_crypto_cipher.c:396:14:mbedtls_psa_cipher_finish	64	static
+../../../externals/mbedtls/library/psa_crypto_cipher.c:434:14:mbedtls_psa_cipher_abort	16	static
+../../../externals/mbedtls/library/psa_crypto_cipher.c:447:14:mbedtls_psa_cipher_encrypt	192	static
+../../../externals/mbedtls/library/psa_crypto_cipher.c:501:14:mbedtls_psa_cipher_decrypt	192	static

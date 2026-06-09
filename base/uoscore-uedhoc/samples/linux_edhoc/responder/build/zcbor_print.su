@@ -1,0 +1,5 @@
+../../../externals/zcbor/src/zcbor_print.c:17:6:zcbor_print_compare_lines	80	static
+../../../externals/zcbor/src/zcbor_print.c:35:6:zcbor_print_compare_strings	64	static
+../../../externals/zcbor/src/zcbor_print.c:48:6:zcbor_print_compare_strings_diff	96	static
+../../../externals/zcbor/src/zcbor_print.c:67:13:zcbor_error_str	8	static
+../../../externals/zcbor/src/zcbor_print.c:103:6:zcbor_print_error	8	static

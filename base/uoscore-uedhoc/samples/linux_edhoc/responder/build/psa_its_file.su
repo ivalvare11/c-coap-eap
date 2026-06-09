@@ -1,0 +1,4 @@
+../../../externals/mbedtls/library/psa_its_file.c:123:14:psa_its_get_info	96	dynamic,bounded
+../../../externals/mbedtls/library/psa_its_file.c:134:14:psa_its_get	112	dynamic,bounded
+../../../externals/mbedtls/library/psa_its_file.c:182:14:psa_its_set	112	dynamic,bounded
+../../../externals/mbedtls/library/psa_its_file.c:235:14:psa_its_remove	64	dynamic,bounded

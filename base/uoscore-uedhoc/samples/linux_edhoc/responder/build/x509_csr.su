@@ -1,0 +1,7 @@
+../../../externals/mbedtls/library/x509_csr.c:384:6:mbedtls_x509_csr_free.part.0	32	static
+../../../externals/mbedtls/library/x509_csr.c:85:5:mbedtls_x509_csr_parse_der	128	static
+../../../externals/mbedtls/library/x509_csr.c:257:5:mbedtls_x509_csr_parse	128	dynamic,bounded
+../../../externals/mbedtls/library/x509_csr.c:308:5:mbedtls_x509_csr_parse_file	48	static
+../../../externals/mbedtls/library/x509_csr.c:332:5:mbedtls_x509_csr_info	96	static
+../../../externals/mbedtls/library/x509_csr.c:376:6:mbedtls_x509_csr_init	8	static
+../../../externals/mbedtls/library/x509_csr.c:384:6:mbedtls_x509_csr_free	32	static

@@ -1,0 +1,10 @@
+../../../externals/mbedtls/library/psa_crypto_aead.c:141:14:mbedtls_psa_aead_encrypt	576	dynamic,bounded
+../../../externals/mbedtls/library/psa_crypto_aead.c:257:14:mbedtls_psa_aead_decrypt	560	dynamic,bounded
+../../../externals/mbedtls/library/psa_crypto_aead.c:352:14:mbedtls_psa_aead_encrypt_setup	80	static
+../../../externals/mbedtls/library/psa_crypto_aead.c:372:14:mbedtls_psa_aead_decrypt_setup	80	static
+../../../externals/mbedtls/library/psa_crypto_aead.c:391:14:mbedtls_psa_aead_set_nonce	16	static
+../../../externals/mbedtls/library/psa_crypto_aead.c:456:14:mbedtls_psa_aead_set_lengths	16	static
+../../../externals/mbedtls/library/psa_crypto_aead.c:481:14:mbedtls_psa_aead_update_ad	16	static
+../../../externals/mbedtls/library/psa_crypto_aead.c:527:14:mbedtls_psa_aead_update	32	static
+../../../externals/mbedtls/library/psa_crypto_aead.c:595:14:mbedtls_psa_aead_finish	32	static
+../../../externals/mbedtls/library/psa_crypto_aead.c:673:14:mbedtls_psa_aead_abort	16	static

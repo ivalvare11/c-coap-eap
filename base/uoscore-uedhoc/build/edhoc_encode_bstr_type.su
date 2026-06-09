@@ -1,0 +1,2 @@
+src/cbor/edhoc_encode_bstr_type.c:22:13:encode_bstr_type_b_str	8	static
+src/cbor/edhoc_encode_bstr_type.c:41:5:cbor_encode_bstr_type_b_str	192	dynamic,bounded

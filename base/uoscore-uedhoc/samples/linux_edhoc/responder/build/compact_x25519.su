@@ -1,0 +1,3 @@
+../../../externals/compact25519/src/compact_x25519.c:8:6:compact_x25519_keygen	32	static
+../../../externals/compact25519/src/compact_x25519.c:19:6:compact_x25519_shared	8	static
+../../../externals/compact25519/src/compact_x25519.c:37:6:compact_x25519_derive_encryption_key	208	static

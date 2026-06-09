@@ -1,0 +1,2 @@
+src/edhoc/bstr_encode_decode.c:16:10:encode_bstr	64	static
+src/edhoc/bstr_encode_decode.c:29:10:decode_bstr	80	static

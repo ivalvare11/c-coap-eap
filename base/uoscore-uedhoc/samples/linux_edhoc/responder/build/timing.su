@@ -1,0 +1,3 @@
+../../../externals/mbedtls/library/timing.c:103:15:mbedtls_timing_get_timer	32	static
+../../../externals/mbedtls/library/timing.c:128:6:mbedtls_timing_set_delay	8	static
+../../../externals/mbedtls/library/timing.c:142:5:mbedtls_timing_get_delay	32	static

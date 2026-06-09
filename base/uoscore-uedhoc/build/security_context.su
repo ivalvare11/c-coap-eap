@@ -1,0 +1,5 @@
+src/oscore/security_context.c:41:17:derive	144	static
+src/oscore/security_context.c:104:10:oscore_context_init	112	static
+src/oscore/security_context.c:167:10:check_context_freshness	16	static
+src/oscore/security_context.c:184:10:ssn2piv	8	static
+src/oscore/security_context.c:213:10:piv2ssn	8	static

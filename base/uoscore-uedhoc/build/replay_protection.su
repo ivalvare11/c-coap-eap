@@ -1,0 +1,6 @@
+src/oscore/replay_protection.c:32:10:server_replay_window_init	8	static
+src/oscore/replay_protection.c:44:10:server_replay_window_reinit	8	static
+src/oscore/replay_protection.c:66:6:server_is_sequence_number_valid	8	static
+src/oscore/replay_protection.c:99:6:server_replay_window_update	48	static
+src/oscore/replay_protection.c:126:10:replay_protection_check_notification	64	static
+src/oscore/replay_protection.c:143:10:notification_number_update	32	static

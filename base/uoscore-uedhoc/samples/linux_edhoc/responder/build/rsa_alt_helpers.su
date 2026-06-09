@@ -1,0 +1,5 @@
+../../../externals/mbedtls/library/rsa_alt_helpers.c:62:5:mbedtls_rsa_deduce_primes	224	static
+../../../externals/mbedtls/library/rsa_alt_helpers.c:197:5:mbedtls_rsa_deduce_private_exponent	128	static
+../../../externals/mbedtls/library/rsa_alt_helpers.c:240:5:mbedtls_rsa_deduce_crt	112	static
+../../../externals/mbedtls/library/rsa_alt_helpers.c:277:5:mbedtls_rsa_validate_params	160	static
+../../../externals/mbedtls/library/rsa_alt_helpers.c:401:5:mbedtls_rsa_validate_crt	144	static

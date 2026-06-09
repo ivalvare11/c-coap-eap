@@ -1,0 +1,11 @@
+src/cbor/edhoc_decode_plaintext3.c:227:13:decode_ptxt3	32	static
+src/cbor/edhoc_decode_plaintext3.c:184:13:decode_repeated_map3_c5u	32	static
+src/cbor/edhoc_decode_plaintext3.c:145:13:decode_repeated_map3_c5c	32	static
+src/cbor/edhoc_decode_plaintext3.c:127:13:decode_repeated_map3_c5b	32	static
+src/cbor/edhoc_decode_plaintext3.c:109:13:decode_repeated_map3_x5u	32	static
+src/cbor/edhoc_decode_plaintext3.c:70:13:decode_repeated_map3_x5chain	32	static
+src/cbor/edhoc_decode_plaintext3.c:52:13:decode_repeated_map3_x5bag	32	static
+src/cbor/edhoc_decode_plaintext3.c:32:13:decode_repeated_map3_kid	32	static
+src/cbor/edhoc_decode_plaintext3.c:163:13:decode_repeated_map3_c5t	32	static
+src/cbor/edhoc_decode_plaintext3.c:88:13:decode_repeated_map3_x5t	32	static
+src/cbor/edhoc_decode_plaintext3.c:251:5:cbor_decode_ptxt3	480	dynamic,bounded

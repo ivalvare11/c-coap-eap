@@ -1,0 +1,13 @@
+../../../externals/mbedtls/library/net_sockets.c:166:6:mbedtls_net_init	8	static
+../../../externals/mbedtls/library/net_sockets.c:174:5:mbedtls_net_connect	128	static
+../../../externals/mbedtls/library/net_sockets.c:222:5:mbedtls_net_bind	112	static
+../../../externals/mbedtls/library/net_sockets.c:339:5:mbedtls_net_accept	352	static
+../../../externals/mbedtls/library/net_sockets.c:458:5:mbedtls_net_set_block	16	static
+../../../externals/mbedtls/library/net_sockets.c:469:5:mbedtls_net_set_nonblock	16	static
+../../../externals/mbedtls/library/net_sockets.c:484:5:mbedtls_net_poll	320	static
+../../../externals/mbedtls/library/net_sockets.c:550:6:mbedtls_net_usleep	32	static
+../../../externals/mbedtls/library/net_sockets.c:570:5:mbedtls_net_recv	32	static
+../../../externals/mbedtls/library/net_sockets.c:607:5:mbedtls_net_recv_timeout	176	static
+../../../externals/mbedtls/library/net_sockets.c:652:5:mbedtls_net_send	32	static
+../../../externals/mbedtls/library/net_sockets.c:689:6:mbedtls_net_close	16	static
+../../../externals/mbedtls/library/net_sockets.c:702:6:mbedtls_net_free	16	static

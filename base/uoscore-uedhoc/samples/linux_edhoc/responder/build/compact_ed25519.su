@@ -1,0 +1,4 @@
+../../../externals/compact25519/src/compact_ed25519.c:10:6:compact_ed25519_keygen	32	static
+../../../externals/compact25519/src/compact_ed25519.c:22:6:compact_ed25519_calc_public_key	8	static
+../../../externals/compact25519/src/compact_ed25519.c:29:6:compact_ed25519_sign	8	static
+../../../externals/compact25519/src/compact_ed25519.c:38:6:compact_ed25519_verify	16	static

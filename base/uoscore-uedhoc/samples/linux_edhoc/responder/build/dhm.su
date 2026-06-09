@@ -1,0 +1,15 @@
+../../../externals/mbedtls/library/dhm.c:206:12:dhm_make_common	80	static
+../../../externals/mbedtls/library/dhm.c:121:6:mbedtls_dhm_init	8	static
+../../../externals/mbedtls/library/dhm.c:127:8:mbedtls_dhm_get_bitlen	8	static
+../../../externals/mbedtls/library/dhm.c:132:8:mbedtls_dhm_get_len	8	static
+../../../externals/mbedtls/library/dhm.c:137:5:mbedtls_dhm_get_value	8	static
+../../../externals/mbedtls/library/dhm.c:171:5:mbedtls_dhm_read_params	80	static
+../../../externals/mbedtls/library/dhm.c:247:5:mbedtls_dhm_make_params	80	static
+../../../externals/mbedtls/library/dhm.c:298:5:mbedtls_dhm_set_group	32	static
+../../../externals/mbedtls/library/dhm.c:319:5:mbedtls_dhm_read_public	32	static
+../../../externals/mbedtls/library/dhm.c:338:5:mbedtls_dhm_make_public	64	static
+../../../externals/mbedtls/library/dhm.c:436:5:mbedtls_dhm_calc_secret	176	static
+../../../externals/mbedtls/library/dhm.c:488:6:mbedtls_dhm_free	16	static
+../../../externals/mbedtls/library/dhm.c:511:5:mbedtls_dhm_parse_dhm	176	dynamic,bounded
+../../../externals/mbedtls/library/dhm.c:664:5:mbedtls_dhm_parse_dhmfile	48	static
+../../../externals/mbedtls/library/dhm.c:716:5:mbedtls_dhm_self_test	272	static

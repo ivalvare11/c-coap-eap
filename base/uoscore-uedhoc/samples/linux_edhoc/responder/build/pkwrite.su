@@ -1,0 +1,5 @@
+../../../externals/mbedtls/library/pkwrite.c:176:5:mbedtls_pk_write_pubkey	224	static
+../../../externals/mbedtls/library/pkwrite.c:225:5:mbedtls_pk_write_pubkey_der	128	static
+../../../externals/mbedtls/library/pkwrite.c:313:5:mbedtls_pk_write_key_der	256	static
+../../../externals/mbedtls/library/pkwrite.c:556:5:mbedtls_pk_write_pubkey_pem	2256	dynamic,bounded
+../../../externals/mbedtls/library/pkwrite.c:581:5:mbedtls_pk_write_key_pem	5760	dynamic,bounded
