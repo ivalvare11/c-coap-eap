@@ -109,7 +109,7 @@ This repository contains a C implementation of CoAP-EAP ([RFC 9820](https://data
 
 ## For further information
 * If you still have any questions after following the steps, please do not hesitate to contact the repository author by email: i.alvarezbelotto@um.es.
-* In addition, the code that simulates packet loss due to congestion on the channel used for communication between the EAP Authenticator and the EAP Peer can also be provided on request. 
+* In addition, the code that simulates packet loss due to congestion on the channel used for communication between the EAP Authenticator and the EAP Peer, along with raw measurement data, firmware configuration files and plotting scripts, can be provided upon request.
 
 ## Acknowledgments
 
